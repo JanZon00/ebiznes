@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd "C:\Users\jasie\Desktop\proj7\ebiznes-proj7\server"
+golangci-lint run
