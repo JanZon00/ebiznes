@@ -32,3 +32,11 @@ KOD: https://github.com/JanZon00/ebiznes/tree/proj7
 proj8
 KOD: https://github.com/JanZon00/ebiznes/tree/proj8
 3.0: https://github.com/JanZon00/ebiznes/commit/d481babb8cc27177332f2ca534a4b9719b091783
+
+proj9
+KOD: https://github.com/JanZon00/ebiznes/tree/proj9
+3.0: https://github.com/JanZon00/ebiznes/commit/5343191fd023c0692f9689886c12eca3ada87003
+
+proj10
+KOD: https://github.com/JanZon00/ebiznes/tree/proj10
+3.0: https://github.com/JanZon00/ebiznes/commit/5e4cb3620cb8d0d9c7a3118a355b97057cd8392b
